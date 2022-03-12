@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, mi name in Mariano 👋
+I am a hardworker web developer, beggining in this amazin trip and willing to learn.
 
 <!--
-**scottimariano/scottimariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
