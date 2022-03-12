@@ -3,6 +3,9 @@ I am a hardworker web developer, beggining in this amazin trip and willing to le
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Rect](https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+</br>
+[![HTML](https://img.shields.io/badge/HTML-232F3E?style=for-the-badge&logo=html-aws&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-4285F4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
 
 
