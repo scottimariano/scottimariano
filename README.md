@@ -9,12 +9,11 @@ I am a hardworker web developer, beggining in this amazin trip and willing to le
 [![CSS](https://img.shields.io/badge/CSS-4285F4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
 ## Contact Me:
-
 [![Email](https://img.shields.io/badge/scottimariano@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:scottimariano@gmail.com)
 
 
 
-<!
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
