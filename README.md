@@ -8,6 +8,13 @@ I am a hardworker web developer, beggining in this amazin trip and willing to le
 [![HTML](https://img.shields.io/badge/HTML-232F3E?style=for-the-badge&logo=html-aws&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-4285F4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
+## Contact & support:
+
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+</br>
+[![Email](https://img.shields.io/badge/scottimariano@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:scottimariano@gmail.com)
+</br>
+
 
 
 - 🔭 I’m currently working on ...
