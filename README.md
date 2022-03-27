@@ -1,4 +1,4 @@
-### Hi there, mi name in Mariano 👋
+### Hi there, my name in Mariano 👋
 I am a hardworker web developer, beggining in this amazing trip and willing to learn.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
