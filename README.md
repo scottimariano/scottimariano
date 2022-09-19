@@ -15,7 +15,8 @@ I am a hardworker web developer, in this amazing trip and willing to learn.
 
 ## Contact Me:
 [![Email](https://img.shields.io/badge/scottimariano@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:scottimariano@gmail.com)
-[![GitHub](https://img.shields.io/badge/scottimariano-GitHub_Repo-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]
+</br>
+[![GitHub](https://img.shields.io/badge/scottimariano-GitHub_Repo-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 
 <!--
